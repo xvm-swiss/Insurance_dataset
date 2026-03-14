@@ -1,0 +1,12 @@
+# Python virtuelle Umgebungen
+.venv/
+venv/
+env/
+__pycache__/
+
+# Node Module (falls vorhanden)
+node_modules/
+
+# Mac/Windows Systemdateien
+.DS_Store
+Thumbs.db
