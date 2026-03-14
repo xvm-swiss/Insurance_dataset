@@ -145,7 +145,6 @@ kpi_3.write(f'<h4>Overweight:<br> {all_Overweight} </h4>'
             unsafe_allow_html= True)
 
 
-
 # Abstand
 st.write('##')
 
